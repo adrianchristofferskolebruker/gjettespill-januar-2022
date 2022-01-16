@@ -1,0 +1,24 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Georgia, serif;
+}
+
+p {
+    padding: 10px;
+    min-height: 10px;
+}
+
+.textbox {
+    width: 60%;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: white;
+    border: 1px solid #cccccc;
+}
+
+.backgroundred {
+    background-color: #B13E20;
+}
+.backgroundgreen {
+    background-color: #498949;
+}
